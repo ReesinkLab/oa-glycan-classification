@@ -4,3 +4,4 @@ This is the companion Github repo to the paper entitled "Lectin Microarray-based
 ### This repository includes:
 - Jupyter notebooks and associated data
   
+[![DOI](https://zenodo.org/badge/1086076072.svg)](https://doi.org/10.5281/zenodo.23898490)
